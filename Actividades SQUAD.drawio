@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ST9S4slzjSoI8dt4IIrm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Adquisición &lt;br&gt;de &lt;br&gt;datos" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="40" as="geometry" />
+          <mxGeometry height="60" width="120" x="114" y="40" as="geometry" />
         </mxCell>
         <mxCell id="ST9S4slzjSoI8dt4IIrm-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Shoplogix&lt;br&gt;Shotscope" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="40" as="geometry" />
+          <mxGeometry height="60" width="120" x="274" y="40" as="geometry" />
         </mxCell>
         <mxCell id="ST9S4slzjSoI8dt4IIrm-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Arquitectura&amp;nbsp;&lt;br&gt;PyMPSA" vertex="1">
-          <mxGeometry height="60" width="120" x="360" y="40" as="geometry" />
+          <mxGeometry height="60" width="120" x="434" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="ST9S4slzjSoI8dt4IIrm-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="520" y="40" as="geometry" />
+        <mxCell id="ST9S4slzjSoI8dt4IIrm-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Analisis &lt;br&gt;de &lt;br&gt;datos" vertex="1">
+          <mxGeometry height="60" width="120" x="594" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
